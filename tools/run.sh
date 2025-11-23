@@ -20,7 +20,7 @@ help() {
 while (($#)); do
   opt="$1"
   case $opt in
-  -H | --host)
+  -H | --host
     host="$2"
     shift 2
     ;;
