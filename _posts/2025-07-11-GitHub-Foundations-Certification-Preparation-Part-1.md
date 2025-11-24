@@ -5,9 +5,10 @@ categories: [GitHub Foundations Certification Series]
 tags: [GitHub]
 ---
 
-On June 26, I gave the **GitHub Foundations Certification** Exam, and Alhamdulillah, I passed! To get prepare for the exam, I used several resources. One of the best was the **GitHub Foundations Skill Track** on DataCamp. It has 4 courses that explain things clearly and also give hands-on practice. These helped me understand how to use GitHub in real life.
+This year, on June 26, I took my **GitHub Foundations Certification** Exam, and I’m pleased to share that I have successfully passed it. To prepare for the exam, I used several resources. For me, one of the best was the **GitHub Foundations Skill Track** on DataCamp. It has 4 courses that explain things clearly and also provide hands-on practice. As a novice in GitHub, this course helped me a lot to understand what GitHub is and how it works in real life.
 
-While preparing for the exam, I also made some handwritten notes to remember the important points. In this blog series, I will share what I learned from each of the 4 courses. This is Part 1, and I will start with the first course, nammed [**Introduction to Git**](https://app.datacamp.com/learn/courses/introduction-to-git).
+While preparing for the exam, I also made handwritten notes to help me remember the key concepts and code. I’m planning to share these notes in a blog series. 
+In this blog series, I will share what I learned from each of the 4 courses. This is Part 1, and I will start with the first course, nammed [**Introduction to Git**](https://app.datacamp.com/learn/courses/introduction-to-git).
 
 ### Chapter 1: Introduction to Git
 

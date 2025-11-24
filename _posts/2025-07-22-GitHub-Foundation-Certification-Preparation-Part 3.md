@@ -323,6 +323,6 @@ We also learned how GitHub makes collaboration easy by letting you host your pro
 
 Understanding these core GitHub features is essential if you want to contribute to open-source projects or work on team-based software development.
 
-Thanks for reading — see you in **Part 4**! 
+Thanks for reading! 
 
 
